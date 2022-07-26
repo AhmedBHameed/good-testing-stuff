@@ -29,7 +29,7 @@ const SupportLink = () => {
         data-testid="support-link"
         href={googleSearchLink}
       >
-        {t('supportLink')}
+        {googleSearchLink}
       </a>
     </div>
   );
